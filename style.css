@@ -1,0 +1,51 @@
+h3 {
+    width: 1510px;
+}
+
+#instructionsbutton {
+    float: right;
+    border: 1px solid white;
+    margin-top: -50px;
+    margin-right: 100px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#resultheading {
+    margin-top: 390px;
+}
+
+#restartbutton {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Bookman Old Style';
+}
+
+#start {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Bookman Old Style';
+}
+
+#instructionsbutton {
+    font-size: 20px;
+    font-family: 'Bookman Old Style';
+}
+
+h2 {
+    font-size: 19px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
